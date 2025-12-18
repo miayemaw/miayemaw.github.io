@@ -31,28 +31,28 @@
     - title: Research Professor & AI Applications Team Lead
       institution: Konkuk Aerospace Design·Airworthiness Institute (KADA), Konkuk University, South Korea
       year: Dec 2022 - Present
-      description:
-        - Leading AI-driven research and development for Urban Air Mobility (UAM) and Advanced Air Mobility (AAM)
-        - Managing nationally funded projects on autonomous systems and safety-critical AI applications
-        - Supervising graduate researchers (PhD and MS students)
-        - Developing operational digital twin frameworks and AI-enabled decision support systems
+      # description:
+      #   - Leading AI-driven research and development for Urban Air Mobility (UAM) and Advanced Air Mobility (AAM)
+      #   - Managing nationally funded projects on autonomous systems and safety-critical AI applications
+      #   - Supervising graduate researchers (PhD and MS students)
+      #   - Developing operational digital twin frameworks and AI-enabled decision support systems
     - title: Postdoctoral Researcher
       institution: Konkuk Aerospace Design·Airworthiness Institute (KADA), Konkuk University, South Korea
       year: Mar 2021 - Nov 2022
-      description:
-        - Conducted advanced research in AI-based autonomous systems
-        - Developed digital twin frameworks for UAM operations
+      # description:
+      #   - Conducted advanced research in AI-based autonomous systems
+      #   - Developed digital twin frameworks for UAM operations
     - title: Researcher & PhD Student
       institution: Konkuk Aerospace Design·Airworthiness Institute (KADA), Konkuk University, South Korea
       year: Mar 2015 - Feb 2021
-      description:
-        - Research on AI-based mission planning and path optimization for autonomous UAVs
-        - Developed integrated heuristic search and reinforcement learning framework
+      # description:
+      #   - Research on AI-based mission planning and path optimization for autonomous UAVs
+      #   - Developed integrated heuristic search and reinforcement learning framework
     - title: Junior Software Developer
       institution: Winner Computer Group, Yangon, Myanmar
       year: Sep 2013 - Dec 2014
-      description:
-        - Software development and system implementation
+      # description:
+      #   - Software development and system implementation
 - title: Honors and Awards
   type: time_table
   contents:
