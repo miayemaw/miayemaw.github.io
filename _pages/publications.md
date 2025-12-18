@@ -42,6 +42,10 @@ nav_order: 1
 
 <!-- Conferences Section -->
 <h2 id="conferences">Conferences</h2>
-<p>Conference presentations are listed in the <a href="/talks/">Talks</a> page.</p>
+
+{%- for y in page.years %}
+  <h3 class="year">{{y}}</h3>
+  {% bibliography -f papers -q @inproceedings[year={{y}}]* %}
+{% endfor %}
 
 </div>
