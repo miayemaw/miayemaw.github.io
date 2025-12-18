@@ -1,12 +1,24 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Seoul-Style UAM Basic Plan
+description: Seoul Government funded UAM study
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+
+**Duration:** 2022 - 2023  
+**Funding:** Seoul Government  
+**Partners:** Seoul City Research Center, Hyundai UAM  
+**Role:** Researcher
+
+### Project Overview
+Introduction of Seoul-Style UAM and Study on the Establishment of Basic Plan.
+
+### Key Technologies
+- Simulation Development (Unreal Engine)
+- UAM Operation Scenario
+- System Validation
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

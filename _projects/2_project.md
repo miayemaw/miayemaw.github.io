@@ -1,11 +1,26 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Manned-Unmanned Teaming Collaboration System
+description: Korea Research Institute for Defense Technology Planning and Advancement
 img: assets/img/3.jpg
 importance: 2
 category: work
 ---
+
+**Duration:** 2023 - 2026  
+**Funding:** Korea Research Institute for Defense Technology Planning and Advancement  
+**Partners:** LIGNex1, KAI, ETRI  
+**Role:** Project Manager, Core Researcher
+
+### Project Overview
+Technology of Collaboration and Decision Support System for Manned-Unmanned Teaming.
+
+### Key Technologies
+- Advanced mission planning and replanning methods
+- Decision support systems for multi-agent collaboration
+- Reinforcement Learning
+- Deep Learning
+- High-fidelity simulation development (Unreal Engine)
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

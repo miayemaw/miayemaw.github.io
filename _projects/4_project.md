@@ -1,13 +1,25 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: UAM Integrated Operation and Validation
+description: KAIA funded by Ministry of Land, Infrastructure and Transport
 img:
-importance: 3
-category: fun
+importance: 4
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
+**Duration:** 2022 - 2025  
+**Funding:** Korea Agency for Infrastructure Technology Advancement (KAIA) funded by the Ministry of Land, Infrastructure and Transport  
+**Partners:** Korea Airports Cooperation  
+**Role:** Core Researcher
+
+### Project Overview
+Development of UAM Integrated Operation and Validation Technology.
+
+### Key Technologies
+- Path Planning and Optimization
+- Flight Scheduling
+- Resource Management
+- Artificial Intelligence
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

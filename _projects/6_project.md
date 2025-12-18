@@ -1,11 +1,23 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: AI-based Multi-agent Mission Planning
+description: Agency for Defense Development Civil-Military Research Program
 img:
-importance: 4
-category: fun
+importance: 6
+category: work
 ---
+
+**Duration:** 2019 - 2021  
+**Funding:** Agency for Defense Development Civil-Military Research Program  
+**Role:** PhD Graduation Project
+
+### Project Overview
+AI-based Multi-agent Real-time Mission Planning Algorithm.
+
+### Key Technologies
+Developed and optimized mission planning and replanning methods for multi-agent AI systems, addressing distributed decision-making in non-deterministic and partially observed scenarios through:
+- Reinforcement Learning
+- iADA* algorithm
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

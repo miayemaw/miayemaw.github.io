@@ -1,15 +1,24 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: AI Digital Twin for Smart Urban Air Mobility
+description: National Research Foundation of Korea (NRF) project
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Duration:** 2020 - 2029  
+**Funding:** National Research Foundation of Korea (NRF) funded by the Ministry of Education  
+**Role:** Project Manager
+
+### Project Overview
+Artificial Intelligence Digital Twin Research for Smart Urban Air Mobility (UAM).
+
+### Key Technologies
+- Digital Twin
+- Simulation Development (Unity, Unreal Engine)
+- Artificial Intelligence
+- Optimization
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
