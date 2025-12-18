@@ -2,11 +2,11 @@
 layout: page
 title: PARTICIPATED PROJECTS
 permalink: /projects/
-description: Folowing are my participated project experiences.
+description: Following are my participated project experiences.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [work]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
