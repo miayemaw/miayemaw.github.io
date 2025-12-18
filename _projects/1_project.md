@@ -2,7 +2,7 @@
 layout: page
 title: AI Digital Twin for Smart Urban Air Mobility
 description: National Research Foundation of Korea (NRF) project
-img: assets/img/12.jpg
+img: assets/img/DT.gif
 importance: 1
 category: work
 ---
