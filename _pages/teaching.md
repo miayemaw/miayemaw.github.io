@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching 
 description: Teaching & Supervision experience at Konkuk University Graduate School.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## Teaching Experience

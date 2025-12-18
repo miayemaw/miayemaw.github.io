@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: Invited talks, seminars, and workshops
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 ## Seminars & Invited Lectures

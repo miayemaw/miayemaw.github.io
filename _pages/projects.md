@@ -4,7 +4,7 @@ title: research
 permalink: /projects/
 description: Following are my participated project experiences.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work]
 horizontal: true
 ---
