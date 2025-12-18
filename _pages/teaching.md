@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching Experience & Student Supervision
 description: Teaching experience at Konkuk University Graduate School.
 nav: true
 nav_order: 5
@@ -48,7 +48,7 @@ Konkuk University
 ### M.Sc. Students
 
 **JaeWoo Han**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Feb 2026 - Graduated*</span>  
-*Bayesian Adaptive Tactical Decision Support System for Manned-Unmanned Teaming Operations*
+*Uncertainty Quantification Based Mission Replanning for Manned-Unmanned Teaming*
 
 **BoHoon Moon**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Feb 2025 - Graduated*</span>  
 *A Study on Deep Reinforcement Learning-based Sequential Mission Allocation in Manned-Unmanned Teaming Combat System*
