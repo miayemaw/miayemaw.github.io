@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Professor and AI Applications Team Lead at the Konkuk Aerospace Design·Airworthiness Institute (KADA), South Korea, with over a decade of experience in aerospace systems, autonomous vehicles, and artificial intelligence. My work focuses on the development of AI-enabled safety, decision-support, and operational digital twin frameworks for Urban Air Mobility (UAM), Advanced Air Mobility (AAM), and unmanned aerial systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research bridges theory and real-world deployment, integrating machine learning, reinforcement learning, probabilistic decision-making (POMDPs), and high-fidelity simulation to address safety-critical challenges such as obstacle detection, collision avoidance, low-altitude airspace risk management, and autonomous operations. I have led and contributed to multiple nationally funded research projects, helping position my institute at the forefront of AI-driven aerospace innovation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I am deeply committed to mentorship and leadership. I have supervised and guided MS and PhD researchers who have successfully completed their degrees and progressed into academic and industry roles. These experiences have shaped my philosophy of continuous learning, collaborative problem-solving, and ethical responsibility in engineering and AI.
+
+I am passionate about translating research into scalable, industry-ready solutions, particularly in safety-critical autonomous systems. My long-term vision is to advance trustworthy autonomy through integrated digital twins, intelligent decision-support systems, and resilient AI architectures that enable safer skies and smarter mobility.
