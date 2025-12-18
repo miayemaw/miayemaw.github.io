@@ -34,3 +34,29 @@ Konkuk University
 **Introduction to Optimization Class** <span style="float: right;">*2016 Spring Semester*</span>  
 Graduate School, Department of Aerospace Information Engineering  
 Konkuk University
+
+---
+
+## Student Supervision
+
+### PhD Students
+
+**Nan Lao Ywet**, Ph.D. (Aerospace Information Engineering) <span style="float: right;">*Feb 2026 - Graduated*</span>  
+*Enhancing Advanced Air Mobility Operations via a Real-Time Modular AI Perception-to-Recommendation Digital Twin Framework*
+
+### M.Sc. Students
+
+**JaeWoo Han**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Feb 2026 - Graduated*</span>  
+*Bayesian Adaptive Tactical Decision Support System for Manned-Unmanned Teaming Operations*
+
+**BoHoon Moon**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Feb 2025 - Graduated*</span>  
+*A Study on Deep Reinforcement Learning-based Sequential Mission Allocation in Manned-Unmanned Teaming Combat System*
+
+**SuJin Kang**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Aug 2024 - Graduated*</span>  
+*Research on the Development of a Deep Learning-Based Decision Support System for Complex Manned-Unmanned Teaming Operations*
+
+**Dasom Kim**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Aug 2023 - Graduated*</span>  
+*A Real-time UAM Mission Management Framework with Operational Risk Assessment and Reinforcement Learning*
+
+**Nan Lao Ywet**, M.Sc. (Aerospace Information Engineering) <span style="float: right;">*Aug 2022 - Graduated*</span>  
+*YOLOTransfer-DF: A Deep and Transfer Learning Framework for Aerial Collision Detection and Avoidance in Virtual Environments*
