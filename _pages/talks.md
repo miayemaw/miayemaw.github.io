@@ -7,29 +7,34 @@ nav: true
 nav_order: 5
 ---
 
-## Seminars & Invited Lectures
+## Session Chair & Keynotes
 
 ### 2025
 
-**AI and Digital Twin for Smart Urban Air Mobility**  
-*Invited Seminar, [Institution Name]*  
-Date: [Month Year]
+**Session Chair**  
+*Intl. Symposium on AAM Digital Twin Technology*  
+2025
 
-### 2024
-
-**Deep Learning Applications in Aerospace Systems**  
-*Invited Lecture, [Institution Name]*  
-Date: [Month Year]
+**Session Chair**  
+*APISAT 2025*  
+2025
 
 ---
 
-## Keynote Speeches
+## Invited Talks
 
-### 2023
+### 2025
 
-**Future of Autonomous Aerial Vehicles**  
-*Keynote Speaker, [Conference Name]*  
-Date: [Month Year]
+**Introduction to KADA's AAM Operational Digital Twin**  
+*APISAT 2025*, South Korea
+
+**Operational Digital Twin and AI for AAM**  
+*Intl. Symposium 2025*, Jeju-do, South Korea
+
+### 2018
+
+**Real-time Mission Planner using Anytime Planning Algorithms**  
+*Indo–Korean Robotics Forum 2018*, Online
 
 ---
 
