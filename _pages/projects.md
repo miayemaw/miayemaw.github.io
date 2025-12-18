@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: PARTICIPATED PROJECTS
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Folowing are my participated project experiences.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
