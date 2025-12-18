@@ -35,11 +35,37 @@ Date: [Month Year]
 
 ## Workshops
 
-### 2023
+### 2021
 
-**Reinforcement Learning for Mission Planning**  
-*Workshop Instructor, [Event Name]*  
-Date: [Month Year]
+**Aircraft Flight Simulation Development**  
+*Workshop Instructor*
+
+### 2020
+
+**Aircraft Flight Simulation: Automatic Control**  
+*Workshop Instructor*
+
+### 2017
+
+**Aircraft Flight Simulation: Principles of Modeling**  
+*Workshop Instructor*
+
+### 2016
+
+**Optimum Design**  
+*Workshop Instructor*
+
+**Surrogate Based Optimization**  
+*Workshop Instructor*
+
+**Flight Simulation**  
+*Workshop Instructor*
+
+**MATLAB Programming**  
+*Workshop Instructor*
+
+**OOP and Python Programming**  
+*Workshop Instructor*
 
 ---
 
