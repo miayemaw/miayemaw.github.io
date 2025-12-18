@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Professor & AI Applications Team Lead at <a href='https://kada.re.kr'>KADA</a>
+subtitle: Research Professor & AI Applications Team Lead at <a href='https://kada.konkuk.ac.kr'>KADA</a>
 
 profile:
   align: right
