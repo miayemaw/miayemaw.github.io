@@ -42,6 +42,7 @@ nav_order: 1
 
 <!-- Conferences Section -->
 <h2 id="conferences">Conferences</h2>
+<p style="color: #b71c1c;"> International and Domestics</p>
 
 {%- for y in page.years %}
   <h3 class="year">{{y}}</h3>
