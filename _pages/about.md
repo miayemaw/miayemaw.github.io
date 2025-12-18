@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Professor & AI Applications Team Lead at <a href='https://kada.re.kr'>KADA</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Konkuk Aerospace Design·Airworthiness Institute</p>
+    <p>Konkuk University</p>
+    <p>Seoul, South Korea</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
