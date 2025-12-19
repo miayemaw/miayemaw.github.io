@@ -2,7 +2,7 @@
 layout: page
 title: Manned-Unmanned Teaming Collaboration System
 description: Korea Research Institute for Defense Technology Planning and Advancement
-img: assets/img/3.jpg
+img: assets/img/mumt.png
 importance: 2
 category: work
 ---
@@ -32,7 +32,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/mumt.png
     ---
 
 <div class="row">
