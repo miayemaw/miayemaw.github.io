@@ -2,7 +2,7 @@
 layout: page
 title: VR-based UAV Flight Simulator
 description: KAIA & KCEI Company collaboration
-img: assets/img/2.jpg
+img: assets/img/kcei.gif
 importance: 7
 category: work
 ---
