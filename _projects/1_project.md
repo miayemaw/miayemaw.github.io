@@ -30,7 +30,7 @@ This high-level overview illustrates the five pillars of the **Digital Twin for 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1_1.png" title="DTAM Operational Flow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1_1.jpg" title="DTAM Operational Flow" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -43,7 +43,7 @@ This schematic details the internal communication between Sensing, Flight Author
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1_2.png" title="ODT Modular Core Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1_2.jpg" title="ODT Modular Core Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
