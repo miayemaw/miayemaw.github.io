@@ -27,12 +27,28 @@ To support complex UAM operations, the framework is built on a modular, high-int
 
 #### **A. DTAM Operational Flow**
 This high-level overview illustrates the five pillars of the **Digital Twin for Air Mobility (DTAM)**: the ODT Core, Mission Planning, Situation Awareness, AI Plugins, and Application Plugins.
-![DTAM Operational Flow](assets/img/1_1.png)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_1.png" title="DTAM Operational Flow" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Digital Twin for Air Mobility (DTAM) operational pillars: ODT Core, Mission Setup, Situation Awareness, AI Plugins, and Application Plugins.
+</div>
+
 
 #### **B. ODT Modular Core Modules**
 This schematic details the internal communication between Sensing, Flight Authoring, and Vehicle Core modules. It highlights the use of **RPC/UDP APIs** to connect the simulation core with third-party application modules like Traffic Management and AI Training.
-![ODT Modular Core Architecture](assets/img/1_2.png)
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_2.png" title="ODT Modular Core Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Detailed modular core architecture showing internal communication between Sensing, Flight Authoring, and Vehicle modules via RPC/UDP APIs.
+</div>
 ---
 
 ### 03. Core Technologies & Innovation
@@ -68,7 +84,14 @@ Unlike conventional digital twins that focus on offline post-analysis, this plat
 ### 05. Interactive Demo
 Experience the platform firsthand. You can log in to the web-based demo to test vertiport management, trajectory planning, and real-time safety analysis.
 
-![ODT Sysetm Demo Version](assets/img/1_3.gif)
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1_3.gif" title="ODT System Demo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Real-time operational dashboard demonstration showing vertiport management, 4D trajectory planning, and safety analysis.
+</div>
 
 
 **[🚀 Access Live UAM Demo](http://203.252.161.46:2025/)**
