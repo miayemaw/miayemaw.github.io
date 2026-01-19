@@ -1,23 +1,26 @@
 ---
 layout: page
-title: AI Object Recognition Learning Simulator
-description: Unitech Company, Korea
-img: assets/img/1.jpg
-importance: 5
+title: Seoul-Style UAM Basic Plan
+description: Seoul Government funded UAM study
+img: assets/img/7.jpg
+importance: 3
 category: work
 ---
 
-**Duration:** 2021 - 2022  
-**Funding:** Unitech Company, Korea  
-**Role:** Project Manager, Technical Leader
+**Duration:** 2022 - 2023  
+**Funding:** Seoul Government  
+**Partners:** Seoul City Research Center, Hyundai UAM  
+**Role:** Researcher
 
 ### Project Overview
-Build AI Object Recognition Learning Simulator Equipment.
+Introduction of Seoul-Style UAM and Study on the Establishment of Basic Plan.
 
 ### Key Technologies
-- Deep Learning for Object Detection
-- Simulation Environment (Unreal Engine)
-- Mission Planning and Replanning Methods
+- Simulation Development (Unreal Engine)
+- UAM Operation Scenario
+- System Validation
+
+Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

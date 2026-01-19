@@ -1,93 +1,60 @@
 ---
 layout: page
-title: Seoul-Style UAM Basic Plan
-description: Seoul Government funded UAM study
-img: assets/img/7.jpg
-importance: 3
+title: AI-based Multi-agent Mission Planning
+description: Agency for Defense Development Civil-Military Research Program
+img: assets/img/4.jpg
+importance: 5
 category: work
 ---
 
-**Duration:** 2022 - 2023  
-**Funding:** Seoul Government  
-**Partners:** Seoul City Research Center, Hyundai UAM  
-**Role:** Researcher
+# AI-Driven Multi-Agent Mission Planning & Autonomous Obstacle Avoidance
+**Ph.D. Research | Fully Funded by the Agency for Defense Development (ADD) Civil-Military Research Program**
+**Duration:** 2019 - 2021  
 
-### Project Overview
-Introduction of Seoul-Style UAM and Study on the Establishment of Basic Plan.
+### 01. Research Objective
+**Problem Statement:** "How can we enable autonomous aerial vehicles to perform intelligent motion planning and real-time obstacle avoidance under dynamic, uncertain environments while ensuring kinematic and dynamic feasibility?"
 
-### Key Technologies
-- Simulation Development (Unreal Engine)
-- UAM Operation Scenario
-- System Validation
+This research addresses four core technical challenges:
+* **Real-time Global Path Planning:** Fast and optimal path generation under dynamic environmental changes.
+* **Local Planning:** Handling uncertainty and moving obstacles using Reinforcement Learning (RL)-based decision-making.
+* **Trajectory Feasibility:** Ensuring planned paths respect UAV kinematic and dynamic constraints for stable control.
+* **Modular Multi-Agent Integration:** Coordinating planning, avoidance, and control agents efficiently without latency bottlenecks.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Overall System Architecture:**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+![Overall System Architecture](assets/img/4.jpg)
+*Figure 1: Modular Multi-Agent Framework integrating Path Planning, Obstacle Avoidance, and System Monitoring.*
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### 02. Technical Novelty: iADA* & RL Integration
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+#### **Global Path Planning (iADA*)**
+* Developed the **iADA*** algorithm, featuring minimum-cost calculation and optimized memory usage.
+* Introduced a **"virtual wall"** feature to manage C-space obstacles effectively.
 
+![iADA Flowchart](assets/img/4_2.jpg) ![iADA Demo](assets/img/4_3.gif)
+*Left: iADA* Algorithm logic. Right: Real-time replanning performance.*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+#### **Local Planning (DQN-based RL)**
+* Integrated a **DQN-based local planner** for collision avoidance in dynamic environments.
+* Combined perception with **UAV flight dynamics** (Translational/Rotational) for physically feasible trajectories.
 
+![DQN Architecture](assets/img/4_4.jpg)
+*Detailed DQN network architecture and UAV dynamic constraints.*
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+### 03. Performance & Results
+* **Speed:** iADA* achieved a total planning time of **15.16ms**, significantly faster than D* Lite.
+* **Reliability:** The iADA*-RL system reached a **94% success rate** in dynamic environments.
+
+![Results Image](assets/img/4_5.gif) ![Results GIF](assets/img/4_6.gif)
+*Simulation validation using AirSim and Unreal Engine 4.*
+
+---
+
+### 04. Future Extensions & Impact
+* **MUM-T:** Building Collaboration Mission Planning for Manned-Unmanned Teaming.
+* **UAM:** Extending frameworks for cooperative Urban Air Mobility operations.
+* **Real-world Deployment:** Energy-aware planning for embedded UAV platforms.

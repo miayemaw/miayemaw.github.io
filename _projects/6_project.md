@@ -1,25 +1,23 @@
 ---
 layout: page
-title: AI-based Multi-agent Mission Planning
-description: Agency for Defense Development Civil-Military Research Program
-img: assets/img/prject6_1.png
-importance: 6
+title: AI Object Recognition Learning Simulator
+description: Unitech Company, Korea
+img: assets/img/1.jpg
+importance: 5
 category: work
 ---
 
-**Duration:** 2019 - 2021  
-**Funding:** Agency for Defense Development Civil-Military Research Program  
-**Role:** PhD Graduation Project
+**Duration:** 2021 - 2022  
+**Funding:** Unitech Company, Korea  
+**Role:** Project Manager, Technical Leader
 
 ### Project Overview
-AI-based Multi-agent Real-time Mission Planning Algorithm.
+Build AI Object Recognition Learning Simulator Equipment.
 
 ### Key Technologies
-Developed and optimized mission planning and replanning methods for multi-agent AI systems, addressing distributed decision-making in non-deterministic and partially observed scenarios through:
-- Reinforcement Learning
-- iADA* algorithm
-
-Every project has a beautiful feature showcase page.
+- Deep Learning for Object Detection
+- Simulation Environment (Unreal Engine)
+- Mission Planning and Replanning Methods
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -29,7 +27,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/unitech.gif
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
