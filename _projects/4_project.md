@@ -2,7 +2,7 @@
 layout: page
 title: UAM Integrated Operation and Validation
 description: KAIA funded by Ministry of Land, Infrastructure and Transport
-img:
+img: assets/img/4_1.png
 importance: 4
 category: work
 ---
@@ -13,80 +13,33 @@ category: work
 **Role:** Core Researcher
 
 ### Project Overview
-Development of UAM Integrated Operation and Validation Technology.
+UAM Vertiport Management & Integrated Operations System
+
+This project focuses on the development of a next-generation Vertiport Management System (VMS) designed to serve as the "nerve center" for Urban Air Mobility. As UAM transitions from concept to reality, this system ensures the safe, efficient, and seamless integration of eVTOL (electric Vertical Take-off and Landing) aircraft into the urban transport fabric.
+
+The primary goal is to manage the high-frequency "turnaround" operations—including landing, charging, passenger boarding, and takeoff—while maintaining real-time synchronization with UAM Traffic Management (UATM) and city-wide mobility networks.
+
 
 ### Key Technologies
-- Path Planning and Optimization
-- Flight Scheduling
-- Resource Management
-- Artificial Intelligence
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To achieve high-capacity operations in dense urban environments, the system leverages several cutting-edge technologies:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+* **AI-Driven Predictive Scheduling:** Algorithms that optimize landing/take-off slots (TLOF/FATO) to minimize aircraft hovering time and ground delays.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+* **Digital Twin & Real-Time Monitoring:** A virtual replica of the vertiport that monitors aircraft telemetry, pad availability, and weather conditions in real-time.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+* **Automated Resource Management:** Dynamic allocation of charging stations, maintenance bays, and passenger gates based on real-time flight data.
 
+* **CNSi Integration:** Advanced Communication, Navigation, and Surveillance (CNS) protocols coupled with Information (i) sharing to ensure "strategic deconfliction" between aircraft.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+* **V2X Connectivity:**  Integration with ground-based public transport systems to facilitate "Last Mile" connectivity for passengers.
+  
 
+### Core Features
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Collaborative Decision Making (A-CDM): Real-time data sharing between Vertiport Operators, Fleet Managers, and Traffic Providers.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+* **Smart Energy Grid:** Intelligent management of high-speed eVTOL charging demands to balance the local electrical grid load.
+
+* **Safety & Emergency Response:** Automated protocols for fire detection (battery safety) and emergency landing clearances.
+
