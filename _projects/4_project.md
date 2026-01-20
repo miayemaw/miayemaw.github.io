@@ -12,7 +12,7 @@ category: work
 **Partners:** Korea Airports Cooperation  
 **Role:** Core Researcher
 
-### Project Overview
+### 01. Project Overview
 UAM Vertiport Management & Integrated Operations System
 
 This project focuses on the development of a next-generation Vertiport Management System (VMS) designed to serve as the "nerve center" for Urban Air Mobility. As UAM transitions from concept to reality, this system ensures the safe, efficient, and seamless integration of eVTOL (electric Vertical Take-off and Landing) aircraft into the urban transport fabric.
@@ -20,7 +20,7 @@ This project focuses on the development of a next-generation Vertiport Managemen
 The primary goal is to manage the high-frequency "turnaround" operations—including landing, charging, passenger boarding, and takeoff—while maintaining real-time synchronization with UAM Traffic Management (UATM) and city-wide mobility networks.
 
 
-### Key Technologies
+### 02. Key Technologies
 
 To achieve high-capacity operations in dense urban environments, the system leverages several cutting-edge technologies:
 
@@ -35,7 +35,7 @@ To achieve high-capacity operations in dense urban environments, the system leve
 * **V2X Connectivity:**  Integration with ground-based public transport systems to facilitate "Last Mile" connectivity for passengers.
   
 
-### Core Features
+### 03. Core Features
 
 Collaborative Decision Making (A-CDM): Real-time data sharing between Vertiport Operators, Fleet Managers, and Traffic Providers.
 

@@ -12,10 +12,10 @@ category: work
 **Partners:** LIGNex1, KAI, ETRI  
 **Role:** Project Manager, Core Researcher
 
-### Project Overview
+### 01. Project Overview
 Technology of Collaboration and Decision Support System for Manned-Unmanned Teaming.
 
-### Key Technologies
+### 02. Key Technologies
 - Advanced mission planning and replanning methods
 - Decision support systems for multi-agent collaboration
 - Reinforcement Learning

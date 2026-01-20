@@ -11,10 +11,10 @@ category: work
 **Funding:** Unitech Company, Korea  
 **Role:** Project Manager, Technical Leader
 
-### Project Overview
+### 01. Project Overview
 Build AI Object Recognition Learning Simulator Equipment.
 
-### Key Technologies
+### 02 Key Technologies
 - Deep Learning for Object Detection
 - Simulation Environment (Unreal Engine)
 - Mission Planning and Replanning Methods
